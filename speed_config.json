@@ -1,5 +1,5 @@
 {
-  "optimized" : false,
-  "label" : "",
-  "image" : ""
+  "optimized" : true,
+  "label" : "CIAO",
+  "image" : "https://upload.wikimedia.org/wikipedia/commons/b/bb/Anonymous.jpg"
 }
